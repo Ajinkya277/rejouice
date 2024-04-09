@@ -1,0 +1,3 @@
+to fit object cover always give height and width to the particular img and video that you want to put
+
+ transition: all ease 1s; important
